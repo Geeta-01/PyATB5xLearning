@@ -1,0 +1,2 @@
+Long_var_name_can_be_declaired = 100
+print(Long_var_name_can_be_declaired)

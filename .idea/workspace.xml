@@ -1,26 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="" />
+    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Practice/Day_08112024_Arithmatic operation/Ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_PythonBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_PythonBasics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab006_Variable_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab006_Variable_Types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab007_Variable_Rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab007_Variable_Rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab008_dynamicallyTyped.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab008_dynamicallyTyped.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab009_longVarName.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab009_longVarName.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keyword_identifier/Lab014.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Geeta-01"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Geeta-01/PyATB5xLearning.git",
+    "accountId": "bac61225-bbb1-47b1-a55b-d5e866995104"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oVttlRO7jR0QHSGIHHjphQLOuQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.Ex1.executor": "Run",
+    "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003_PythonBasics.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006_Variable_Types.executor": "Run",
+    "Python.Lab007_Variable_Rules.executor": "Run",
+    "Python.Lab008_dynamicallyTyped.executor": "Run",
+    "Python.Lab009_longVarName.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab002" />
+        <item itemvalue="Python.Lab001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
