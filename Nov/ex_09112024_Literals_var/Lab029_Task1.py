@@ -1,9 +1,9 @@
 # Task 1 - Take 3 input from user
 #perform Add, Mul, Sub, Div
 
-num1 =int(input("Enter number1 :"))
-num2 =int(input("Enter number2 :"))
-num3 =int(input("Enter number3 :"))
+num1 =float(input("Enter number1 :"))
+num2 =float(input("Enter number2 :"))
+num3 =float(input("Enter number3 :"))
 add = num1 + num2 + num3
 sub = num1 - num2 - num3
 mul = num1 * num2 * num3

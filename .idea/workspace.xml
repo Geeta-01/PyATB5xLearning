@@ -4,27 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="adding practice files">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab020_Builtin_fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab022_add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab023_stringOperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab026_literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab028_escapeSqu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab029_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab030_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Day_08112024_Arithmatic operation/Ex_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Day_08112024_Arithmatic operation/ex_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/__init__.py" afterDir="false" />
+    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Adding Day 9/11 codes with task">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab032_Arithmatic_Opr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab033_Operator_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab034_Operator_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab035_Operator_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab036_Operator_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab037_Operator_P5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab038_Operator_P6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab039_Operator_P7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab040_Operator_P8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_TernaryOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab044_ Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab045_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab046_Task3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Day_08112024_Arithmatic operation/Ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab029_Task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +94,22 @@
     "Python.Lab028_escapeSqu.executor": "Run",
     "Python.Lab029_Task1.executor": "Run",
     "Python.Lab030_Task2.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033_Operator_P1.executor": "Run",
+    "Python.Lab034_Operator_P3.executor": "Run",
+    "Python.Lab034_Oprator_P2.executor": "Run",
+    "Python.Lab036_Operator_P4.executor": "Run",
+    "Python.Lab037_Operator_P5.executor": "Run",
+    "Python.Lab038_Operator_P6.executor": "Run",
+    "Python.Lab039_Operator_P7.executor": "Run",
+    "Python.Lab040_Operator_P8.executor": "Run",
+    "Python.Lab041_TernaryOperator.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044_ Task1.executor": "Run",
+    "Python.Lab045_Task2.executor": "Run",
+    "Python.Lab046_Task3.executor": "Run",
     "Python.ex_02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -177,11 +191,20 @@
       <option name="project" value="LOCAL" />
       <updated>1731074575941</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding Day 9/11 codes with task">
+      <option name="closed" value="true" />
+      <created>1731257403987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731257403987</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding practice files" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding practice files" />
+    <MESSAGE value="Adding Day 9/11 codes with task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Day 9/11 codes with task" />
   </component>
 </project>
