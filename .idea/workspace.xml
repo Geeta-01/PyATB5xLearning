@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Adding Day 9/11 codes with task">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab032_Arithmatic_Opr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab033_Operator_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab034_Operator_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab035_Operator_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab036_Operator_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab037_Operator_P5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab038_Operator_P6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab039_Operator_P7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab040_Operator_P8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_TernaryOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab044_ Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab045_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab046_Task3.py" afterDir="false" />
+    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Adding Day 12/11 codes with task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_var/Lab029_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab046_Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab046_Task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,59 +46,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Ex1.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003_PythonBasics.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006_Variable_Types.executor": "Run",
-    "Python.Lab007_Variable_Rules.executor": "Run",
-    "Python.Lab008_dynamicallyTyped.executor": "Run",
-    "Python.Lab009_longVarName.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020_Builtin_fun.executor": "Run",
-    "Python.Lab021.executor": "Run",
-    "Python.Lab022_add.executor": "Run",
-    "Python.Lab023_stringOperations.executor": "Run",
-    "Python.Lab024.executor": "Run",
-    "Python.Lab025.executor": "Run",
-    "Python.Lab026_literals.executor": "Run",
-    "Python.Lab027.executor": "Run",
-    "Python.Lab028_escapeSqu.executor": "Run",
-    "Python.Lab029_Task1.executor": "Run",
-    "Python.Lab030_Task2.executor": "Run",
-    "Python.Lab031.executor": "Run",
-    "Python.Lab032.executor": "Run",
-    "Python.Lab033_Operator_P1.executor": "Run",
-    "Python.Lab034_Operator_P3.executor": "Run",
-    "Python.Lab034_Oprator_P2.executor": "Run",
-    "Python.Lab036_Operator_P4.executor": "Run",
-    "Python.Lab037_Operator_P5.executor": "Run",
-    "Python.Lab038_Operator_P6.executor": "Run",
-    "Python.Lab039_Operator_P7.executor": "Run",
-    "Python.Lab040_Operator_P8.executor": "Run",
-    "Python.Lab041_TernaryOperator.executor": "Run",
-    "Python.Lab042.executor": "Run",
-    "Python.Lab043.executor": "Run",
-    "Python.Lab044_ Task1.executor": "Run",
-    "Python.Lab045_Task2.executor": "Run",
-    "Python.Lab046_Task3.executor": "Run",
-    "Python.ex_02.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_PythonBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_Variable_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_Variable_Rules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_dynamicallyTyped.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009_longVarName.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_Builtin_fun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_stringOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026_literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_escapeSqu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033_Operator_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_Operator_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_Oprator_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036_Operator_P4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab037_Operator_P5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038_Operator_P6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039_Operator_P7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Operator_P8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041_TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab044_ Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab045_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046_Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
@@ -199,12 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731257403987</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding Day 12/11 codes with task">
+      <option name="closed" value="true" />
+      <created>1731521061856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731521061856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding practice files" />
     <MESSAGE value="Adding Day 9/11 codes with task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Day 9/11 codes with task" />
+    <MESSAGE value="Adding Day 12/11 codes with task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Day 12/11 codes with task" />
   </component>
 </project>
