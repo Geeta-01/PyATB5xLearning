@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Updated Task3 for Day 12/11">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions_Loop/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions_Loop/Lab044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions_Loop/Lab045_Max_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions_Loop/Lab046_max_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions_Loop/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions_Loop/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions_Loop/Lab051_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions_Loop/Lab052_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions_Loop/Lab053_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab049_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab0054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab056_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab058_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab059_pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab061_continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab063_Task_FizzBuz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab055.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,7 @@
     "Python.Lab003_PythonBasics.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
+    "Python.Lab0054.executor": "Run",
     "Python.Lab006_Variable_Types.executor": "Run",
     "Python.Lab007_Variable_Rules.executor": "Run",
     "Python.Lab008_dynamicallyTyped.executor": "Run",
@@ -109,11 +109,23 @@
     "Python.Lab046_max_3.executor": "Run",
     "Python.Lab047.executor": "Run",
     "Python.Lab049_loops.executor": "Run",
+    "Python.Lab050.executor": "Run",
     "Python.Lab051_Task1.executor": "Run",
     "Python.Lab052_Task2.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056_while.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058_break.executor": "Run",
+    "Python.Lab059_pass.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061_continue.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063_Task_FizzBuz.executor": "Run",
     "Python.ex_02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/geeta/PycharmProjects/PyATB5xLearning/.venv/Scripts/python.exe",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
