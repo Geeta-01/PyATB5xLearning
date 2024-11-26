@@ -4,19 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Updated Task3 for Day 12/11">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab0054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab056_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab058_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab059_pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab061_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab063_Task_FizzBuz.py" afterDir="false" />
+    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Updated practice code and task for 16/11 day.">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab069_pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab071_withArgNoReturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab072_DefaultArg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab072_WithArgWithReturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab073_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab074_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab075_global.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab078_Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab079_decorator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab080_decorator2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab_081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab050.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/Day_08112024_Arithmatic operation/Ex_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/Programs/Ex_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/Day_08112024_Arithmatic operation/ex_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/Programs/ex_02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +81,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Ex01.executor": "Run",
+    "Python.Ex02.executor": "Run",
+    "Python.Ex03.executor": "Run",
+    "Python.Ex04.executor": "Run",
+    "Python.Ex05.executor": "Run",
+    "Python.Ex07.executor": "Run",
     "Python.Ex1.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
@@ -121,6 +150,31 @@
     "Python.Lab061_continue.executor": "Run",
     "Python.Lab062.executor": "Run",
     "Python.Lab063_Task_FizzBuz.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab070.executor": "Run",
+    "Python.Lab071.executor": "Run",
+    "Python.Lab071_withArgNoReturn.executor": "Run",
+    "Python.Lab072_DefaultArg.executor": "Run",
+    "Python.Lab072_WithArgWithReturn.executor": "Run",
+    "Python.Lab073_IQ.executor": "Run",
+    "Python.Lab074_args.executor": "Run",
+    "Python.Lab075_global.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077.executor": "Run",
+    "Python.Lab078_Decorators.executor": "Run",
+    "Python.Lab079_decorator1.executor": "Run",
+    "Python.Lab080_decorator2.executor": "Run",
+    "Python.Lab082.executor": "Run",
+    "Python.Lab083.executor": "Run",
+    "Python.Lab084.executor": "Run",
+    "Python.Lab085.executor": "Run",
+    "Python.Lab086.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab_081.executor": "Run",
     "Python.ex_02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -128,6 +182,11 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning\Nov" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
@@ -228,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731548190050</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated practice code and task for 16/11 day.">
+      <option name="closed" value="true" />
+      <created>1731953740056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731953740056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,6 +303,7 @@
     <MESSAGE value="Adding Day 9/11 codes with task" />
     <MESSAGE value="Adding Day 12/11 codes with task" />
     <MESSAGE value="Updated Task3 for Day 12/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Task3 for Day 12/11" />
+    <MESSAGE value="Updated practice code and task for 16/11 day." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated practice code and task for 16/11 day." />
   </component>
 </project>
