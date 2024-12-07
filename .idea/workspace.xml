@@ -4,42 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Updated practice code and task for 16/11 day.">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab069_pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab071_withArgNoReturn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab072_DefaultArg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab072_WithArgWithReturn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab073_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_functions/Lab074_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab075_global.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab078_Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab079_decorator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab080_decorator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_scope/Lab_081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Programs/Ex07.py" afterDir="false" />
+    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Updated practice code and task for 21/11,23/11 day.">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab088_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab089_ListOperations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab090_list_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab091_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab095_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab098_QA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab110_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_dictEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab113_dict_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab114_Dict P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab115_QA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab116_QA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab117_SortDict_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab118_IQ_maxDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab119_DuplicateRem_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab120_dupliate_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab122_CountNumofVowels_Str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_121_RemDuplicate_List_tast2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Day_08112024_Arithmatic operation/Ex_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/Programs/Ex_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Day_08112024_Arithmatic operation/ex_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/Programs/ex_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab082.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab083.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab083.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab084.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab084.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab085.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab086.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab086.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab087.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab087.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab088.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab111.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +171,31 @@
     "Python.Lab085.executor": "Run",
     "Python.Lab086.executor": "Run",
     "Python.Lab087.executor": "Run",
+    "Python.Lab088_List.executor": "Run",
+    "Python.Lab089_ListOperations.executor": "Run",
+    "Python.Lab089_list1.executor": "Run",
+    "Python.Lab090_list_ex.executor": "Run",
+    "Python.Lab091_tuple.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab093.executor": "Run",
+    "Python.Lab094.executor": "Run",
+    "Python.Lab095_set.executor": "Run",
+    "Python.Lab096.executor": "Run",
+    "Python.Lab097.executor": "Run",
+    "Python.Lab098_QA.executor": "Run",
+    "Python.Lab110_dict.executor": "Run",
+    "Python.Lab112_dictEx.executor": "Run",
+    "Python.Lab113_dict_P1.executor": "Run",
+    "Python.Lab114_Dict P2.executor": "Run",
+    "Python.Lab115_QA.executor": "Run",
+    "Python.Lab116_QA.executor": "Run",
+    "Python.Lab117_QA.executor": "Run",
+    "Python.Lab118_IQ_maxDict.executor": "Run",
+    "Python.Lab119_DuplicateRem_dict.executor": "Run",
+    "Python.Lab120_dupliate_Keys.executor": "Run",
+    "Python.Lab122_CountNumofVowels_Str.executor": "Run",
     "Python.Lab_081.executor": "Run",
+    "Python.Lab_121_RemDuplicate_List.executor": "Run",
     "Python.ex_02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -184,6 +205,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning\Nov\ex_26112024_Set" />
       <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
   </component>
@@ -232,8 +254,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab098_QA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab098_QA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab098_QA" />
         <item itemvalue="Python.Lab001" />
         <item itemvalue="Python.Lab002" />
       </list>
@@ -295,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731953740056</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated practice code and task for 21/11,23/11 day.">
+      <option name="closed" value="true" />
+      <created>1732643149362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732643149362</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,6 +357,7 @@
     <MESSAGE value="Adding Day 12/11 codes with task" />
     <MESSAGE value="Updated Task3 for Day 12/11" />
     <MESSAGE value="Updated practice code and task for 16/11 day." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated practice code and task for 16/11 day." />
+    <MESSAGE value="Updated practice code and task for 21/11,23/11 day." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated practice code and task for 21/11,23/11 day." />
   </component>
 </project>
