@@ -4,39 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Updated practice code and task for 21/11,23/11 day.">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab088_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab089_ListOperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab090_list_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab091_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab095_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab098_QA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab110_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_dictEx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab113_dict_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab114_Dict P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab115_QA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab116_QA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab117_SortDict_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab118_IQ_maxDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab119_DuplicateRem_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab120_dupliate_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab122_CountNumofVowels_Str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_121_RemDuplicate_List_tast2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/__init__.py" afterDir="false" />
+    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Updated practice code and task for 26/11">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab136_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab137_singleInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab138_Multilevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab139_Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab140_Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab141_Inherit_Heirachical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab142_Inherit_hybrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab143_RealEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab144_Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab145_Polymorphsm1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab146_Poly_MethodOverride.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab147_poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab148_MethodOverload_fix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab149_MethodOverload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab150_Method_Override.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab151_Real_Method_override.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab152_Abs1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab153_abs2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab154_Abs3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab155_Abs4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab156_staticMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab157_Static_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab158_Complete_Oops_Pgm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/LAb167_exceptionHandle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab159_exception1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab160_exception2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab161_exception3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab162_exception4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab163_exception5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab164_exception6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab165_exception7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab166_exception8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab168_TryExcept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab169_TryExceptElse_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab170_tryExceptFinally_ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab171_OSmodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab172_Os_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab173_os Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab174_customException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab176_FleIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab177_MainMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab178_Main _p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab179_main_p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab180_writeFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab181_csvFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/TestData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab123_oops_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab124_DogClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab125_DogP2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab126_DogP3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab127_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab128_CalciNonPC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab129_Calci_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab130_opps1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab131_Ops2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab132_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab133_Encap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab134_Encap1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab135_Encap2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab082.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab082.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab083.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab083.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab084.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab084.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab085.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab085.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab086.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab086.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab087.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab087.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab088.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab111.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +116,7 @@
     "Python.Ex05.executor": "Run",
     "Python.Ex07.executor": "Run",
     "Python.Ex1.executor": "Run",
+    "Python.LAb167_exceptionHandle.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003_PythonBasics.executor": "Run",
@@ -194,17 +226,78 @@
     "Python.Lab119_DuplicateRem_dict.executor": "Run",
     "Python.Lab120_dupliate_Keys.executor": "Run",
     "Python.Lab122_CountNumofVowels_Str.executor": "Run",
+    "Python.Lab124.executor": "Run",
+    "Python.Lab125_DogP2.executor": "Run",
+    "Python.Lab126_DogP3.executor": "Run",
+    "Python.Lab127_Person.executor": "Run",
+    "Python.Lab128_CalciNonPC.executor": "Run",
+    "Python.Lab129_Calci_PC.executor": "Run",
+    "Python.Lab130_opps1.executor": "Run",
+    "Python.Lab131_Ops2.executor": "Run",
+    "Python.Lab132_Inheritance.executor": "Run",
+    "Python.Lab133_Encap.executor": "Run",
+    "Python.Lab134_Encap1.executor": "Run",
+    "Python.Lab135_Encap2.executor": "Run",
+    "Python.Lab136_Inheritance.executor": "Run",
+    "Python.Lab137_singleInheritance.executor": "Run",
+    "Python.Lab138_Multilevel.executor": "Run",
+    "Python.Lab139_Multiple.executor": "Run",
+    "Python.Lab140_Multiple.executor": "Run",
+    "Python.Lab141_Inherit_Heirachical.executor": "Run",
+    "Python.Lab142_Inherit_hybrid.executor": "Run",
+    "Python.Lab143_RealEx.executor": "Run",
+    "Python.Lab144_Polymorphism.executor": "Run",
+    "Python.Lab145_Polymorphsm1.executor": "Run",
+    "Python.Lab146_Poly_MethodOverride.executor": "Run",
+    "Python.Lab147_poly.executor": "Run",
+    "Python.Lab148_MethodOverload_fix.executor": "Run",
+    "Python.Lab149_MethodOverload.executor": "Run",
+    "Python.Lab150_Method_Override.executor": "Run",
+    "Python.Lab151_Real_Method_override.executor": "Run",
+    "Python.Lab152_Abs1.executor": "Run",
+    "Python.Lab153_abs2.executor": "Run",
+    "Python.Lab154_Abs3.executor": "Run",
+    "Python.Lab155_Abs4.executor": "Run",
+    "Python.Lab156_staticMethod.executor": "Run",
+    "Python.Lab157_Static_P1.executor": "Run",
+    "Python.Lab158_Complete_Oops_Pgm.executor": "Run",
+    "Python.Lab159_exception1.executor": "Run",
+    "Python.Lab160_exception2.executor": "Run",
+    "Python.Lab161_exception3.executor": "Run",
+    "Python.Lab162_exception4.executor": "Run",
+    "Python.Lab163_exception5.executor": "Run",
+    "Python.Lab164_exception6.executor": "Run",
+    "Python.Lab165_exception7.executor": "Run",
+    "Python.Lab166_exception8.executor": "Run",
+    "Python.Lab168_TryExcept.executor": "Run",
+    "Python.Lab169_TryExceptFinally_ex.executor": "Run",
+    "Python.Lab170_tryExceptFinally_ex1.executor": "Run",
+    "Python.Lab171_OSmodule.executor": "Run",
+    "Python.Lab172_Os_exception.executor": "Run",
+    "Python.Lab173_os Exception.executor": "Run",
+    "Python.Lab174_customException.executor": "Run",
+    "Python.Lab176_FleIO.executor": "Run",
+    "Python.Lab177_MainMethod.executor": "Run",
+    "Python.Lab178_Main _p1.executor": "Run",
+    "Python.Lab179_main_p2.executor": "Run",
+    "Python.Lab180_eriteFile.executor": "Run",
+    "Python.Lab181_csvFile.executor": "Run",
     "Python.Lab_081.executor": "Run",
     "Python.Lab_121_RemDuplicate_List.executor": "Run",
     "Python.ex_02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/geeta/PycharmProjects/PyATB5xLearning/.venv/Scripts/python.exe",
+    "last_opened_file_path": "C:/Users/geeta/PycharmProjects/PyATB5xLearning/Dec/ex_07122024_exception",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning\Dec\ex_07122024_exception" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning\Dec\ex_03122024_Inheritance" />
+      <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning" />
       <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning\Nov\ex_26112024_Set" />
       <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
@@ -348,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732643149362</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated practice code and task for 26/11">
+      <option name="closed" value="true" />
+      <created>1733581230339</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733581230339</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -358,6 +459,7 @@
     <MESSAGE value="Updated Task3 for Day 12/11" />
     <MESSAGE value="Updated practice code and task for 16/11 day." />
     <MESSAGE value="Updated practice code and task for 21/11,23/11 day." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated practice code and task for 21/11,23/11 day." />
+    <MESSAGE value="Updated practice code and task for 26/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated practice code and task for 26/11" />
   </component>
 </project>
