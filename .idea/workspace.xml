@@ -4,69 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Updated practice code and task for 26/11">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab136_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab137_singleInheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab138_Multilevel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab139_Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab140_Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab141_Inherit_Heirachical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab142_Inherit_hybrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab143_RealEx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab144_Polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab145_Polymorphsm1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/Lab146_Poly_MethodOverride.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_Inheritance/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab147_poly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab148_MethodOverload_fix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab149_MethodOverload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab150_Method_Override.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab151_Real_Method_override.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab152_Abs1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab153_abs2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab154_Abs3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab155_Abs4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab156_staticMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab157_Static_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_polymorphism_Abstraction/Lab158_Complete_Oops_Pgm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/LAb167_exceptionHandle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab159_exception1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab160_exception2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab161_exception3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab162_exception4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab163_exception5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab164_exception6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab165_exception7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab166_exception8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab168_TryExcept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab169_TryExceptElse_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab170_tryExceptFinally_ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab171_OSmodule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab172_Os_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab173_os Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab174_customException.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab176_FleIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab177_MainMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab178_Main _p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab179_main_p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab180_writeFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/Lab181_csvFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_exception_OS/TestData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab123_oops_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab124_DogClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab125_DogP2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab126_DogP3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab127_Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab128_CalciNonPC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab129_Calci_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab130_opps1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab131_Ops2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab132_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab133_Encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab134_Encap1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs 1/Lab135_Encap2.py" afterDir="false" />
+    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Updated practice code for OOPS concepts">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab183_learnPytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab184_pytestLearning1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab185_pytest_AlluerReport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab186_API_GET_Req.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,190 +50,202 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Ex01.executor": "Run",
-    "Python.Ex02.executor": "Run",
-    "Python.Ex03.executor": "Run",
-    "Python.Ex04.executor": "Run",
-    "Python.Ex05.executor": "Run",
-    "Python.Ex07.executor": "Run",
-    "Python.Ex1.executor": "Run",
-    "Python.LAb167_exceptionHandle.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003_PythonBasics.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab0054.executor": "Run",
-    "Python.Lab006_Variable_Types.executor": "Run",
-    "Python.Lab007_Variable_Rules.executor": "Run",
-    "Python.Lab008_dynamicallyTyped.executor": "Run",
-    "Python.Lab009_longVarName.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020_Builtin_fun.executor": "Run",
-    "Python.Lab021.executor": "Run",
-    "Python.Lab022_add.executor": "Run",
-    "Python.Lab023_stringOperations.executor": "Run",
-    "Python.Lab024.executor": "Run",
-    "Python.Lab025.executor": "Run",
-    "Python.Lab026_literals.executor": "Run",
-    "Python.Lab027.executor": "Run",
-    "Python.Lab028_escapeSqu.executor": "Run",
-    "Python.Lab029_Task1.executor": "Run",
-    "Python.Lab030_Task2.executor": "Run",
-    "Python.Lab031.executor": "Run",
-    "Python.Lab032.executor": "Run",
-    "Python.Lab033_Operator_P1.executor": "Run",
-    "Python.Lab034_Operator_P3.executor": "Run",
-    "Python.Lab034_Oprator_P2.executor": "Run",
-    "Python.Lab036_Operator_P4.executor": "Run",
-    "Python.Lab037_Operator_P5.executor": "Run",
-    "Python.Lab038_Operator_P6.executor": "Run",
-    "Python.Lab039_Operator_P7.executor": "Run",
-    "Python.Lab040_Operator_P8.executor": "Run",
-    "Python.Lab041_TernaryOperator.executor": "Run",
-    "Python.Lab042.executor": "Run",
-    "Python.Lab043.executor": "Run",
-    "Python.Lab044_ Task1.executor": "Run",
-    "Python.Lab045_Max_2.executor": "Run",
-    "Python.Lab045_Task2.executor": "Run",
-    "Python.Lab046_Task3.executor": "Run",
-    "Python.Lab046_max_3.executor": "Run",
-    "Python.Lab047.executor": "Run",
-    "Python.Lab049_loops.executor": "Run",
-    "Python.Lab050.executor": "Run",
-    "Python.Lab051_Task1.executor": "Run",
-    "Python.Lab052_Task2.executor": "Run",
-    "Python.Lab055.executor": "Run",
-    "Python.Lab056_while.executor": "Run",
-    "Python.Lab057.executor": "Run",
-    "Python.Lab058_break.executor": "Run",
-    "Python.Lab059_pass.executor": "Run",
-    "Python.Lab060.executor": "Run",
-    "Python.Lab061_continue.executor": "Run",
-    "Python.Lab062.executor": "Run",
-    "Python.Lab063_Task_FizzBuz.executor": "Run",
-    "Python.Lab064.executor": "Run",
-    "Python.Lab065.executor": "Run",
-    "Python.Lab066.executor": "Run",
-    "Python.Lab067.executor": "Run",
-    "Python.Lab068.executor": "Run",
-    "Python.Lab070.executor": "Run",
-    "Python.Lab071.executor": "Run",
-    "Python.Lab071_withArgNoReturn.executor": "Run",
-    "Python.Lab072_DefaultArg.executor": "Run",
-    "Python.Lab072_WithArgWithReturn.executor": "Run",
-    "Python.Lab073_IQ.executor": "Run",
-    "Python.Lab074_args.executor": "Run",
-    "Python.Lab075_global.executor": "Run",
-    "Python.Lab076.executor": "Run",
-    "Python.Lab077.executor": "Run",
-    "Python.Lab078_Decorators.executor": "Run",
-    "Python.Lab079_decorator1.executor": "Run",
-    "Python.Lab080_decorator2.executor": "Run",
-    "Python.Lab082.executor": "Run",
-    "Python.Lab083.executor": "Run",
-    "Python.Lab084.executor": "Run",
-    "Python.Lab085.executor": "Run",
-    "Python.Lab086.executor": "Run",
-    "Python.Lab087.executor": "Run",
-    "Python.Lab088_List.executor": "Run",
-    "Python.Lab089_ListOperations.executor": "Run",
-    "Python.Lab089_list1.executor": "Run",
-    "Python.Lab090_list_ex.executor": "Run",
-    "Python.Lab091_tuple.executor": "Run",
-    "Python.Lab092.executor": "Run",
-    "Python.Lab093.executor": "Run",
-    "Python.Lab094.executor": "Run",
-    "Python.Lab095_set.executor": "Run",
-    "Python.Lab096.executor": "Run",
-    "Python.Lab097.executor": "Run",
-    "Python.Lab098_QA.executor": "Run",
-    "Python.Lab110_dict.executor": "Run",
-    "Python.Lab112_dictEx.executor": "Run",
-    "Python.Lab113_dict_P1.executor": "Run",
-    "Python.Lab114_Dict P2.executor": "Run",
-    "Python.Lab115_QA.executor": "Run",
-    "Python.Lab116_QA.executor": "Run",
-    "Python.Lab117_QA.executor": "Run",
-    "Python.Lab118_IQ_maxDict.executor": "Run",
-    "Python.Lab119_DuplicateRem_dict.executor": "Run",
-    "Python.Lab120_dupliate_Keys.executor": "Run",
-    "Python.Lab122_CountNumofVowels_Str.executor": "Run",
-    "Python.Lab124.executor": "Run",
-    "Python.Lab125_DogP2.executor": "Run",
-    "Python.Lab126_DogP3.executor": "Run",
-    "Python.Lab127_Person.executor": "Run",
-    "Python.Lab128_CalciNonPC.executor": "Run",
-    "Python.Lab129_Calci_PC.executor": "Run",
-    "Python.Lab130_opps1.executor": "Run",
-    "Python.Lab131_Ops2.executor": "Run",
-    "Python.Lab132_Inheritance.executor": "Run",
-    "Python.Lab133_Encap.executor": "Run",
-    "Python.Lab134_Encap1.executor": "Run",
-    "Python.Lab135_Encap2.executor": "Run",
-    "Python.Lab136_Inheritance.executor": "Run",
-    "Python.Lab137_singleInheritance.executor": "Run",
-    "Python.Lab138_Multilevel.executor": "Run",
-    "Python.Lab139_Multiple.executor": "Run",
-    "Python.Lab140_Multiple.executor": "Run",
-    "Python.Lab141_Inherit_Heirachical.executor": "Run",
-    "Python.Lab142_Inherit_hybrid.executor": "Run",
-    "Python.Lab143_RealEx.executor": "Run",
-    "Python.Lab144_Polymorphism.executor": "Run",
-    "Python.Lab145_Polymorphsm1.executor": "Run",
-    "Python.Lab146_Poly_MethodOverride.executor": "Run",
-    "Python.Lab147_poly.executor": "Run",
-    "Python.Lab148_MethodOverload_fix.executor": "Run",
-    "Python.Lab149_MethodOverload.executor": "Run",
-    "Python.Lab150_Method_Override.executor": "Run",
-    "Python.Lab151_Real_Method_override.executor": "Run",
-    "Python.Lab152_Abs1.executor": "Run",
-    "Python.Lab153_abs2.executor": "Run",
-    "Python.Lab154_Abs3.executor": "Run",
-    "Python.Lab155_Abs4.executor": "Run",
-    "Python.Lab156_staticMethod.executor": "Run",
-    "Python.Lab157_Static_P1.executor": "Run",
-    "Python.Lab158_Complete_Oops_Pgm.executor": "Run",
-    "Python.Lab159_exception1.executor": "Run",
-    "Python.Lab160_exception2.executor": "Run",
-    "Python.Lab161_exception3.executor": "Run",
-    "Python.Lab162_exception4.executor": "Run",
-    "Python.Lab163_exception5.executor": "Run",
-    "Python.Lab164_exception6.executor": "Run",
-    "Python.Lab165_exception7.executor": "Run",
-    "Python.Lab166_exception8.executor": "Run",
-    "Python.Lab168_TryExcept.executor": "Run",
-    "Python.Lab169_TryExceptFinally_ex.executor": "Run",
-    "Python.Lab170_tryExceptFinally_ex1.executor": "Run",
-    "Python.Lab171_OSmodule.executor": "Run",
-    "Python.Lab172_Os_exception.executor": "Run",
-    "Python.Lab173_os Exception.executor": "Run",
-    "Python.Lab174_customException.executor": "Run",
-    "Python.Lab176_FleIO.executor": "Run",
-    "Python.Lab177_MainMethod.executor": "Run",
-    "Python.Lab178_Main _p1.executor": "Run",
-    "Python.Lab179_main_p2.executor": "Run",
-    "Python.Lab180_eriteFile.executor": "Run",
-    "Python.Lab181_csvFile.executor": "Run",
-    "Python.Lab_081.executor": "Run",
-    "Python.Lab_121_RemDuplicate_List.executor": "Run",
-    "Python.ex_02.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/geeta/PycharmProjects/PyATB5xLearning/Dec/ex_07122024_exception",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Lab183_learnPytest.test_method2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab183_learnPytest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab184_pytestLearning1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LAb167_exceptionHandle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_PythonBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_Variable_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_Variable_Rules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_dynamicallyTyped.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009_longVarName.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_Builtin_fun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_stringOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026_literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_escapeSqu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033_Operator_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_Operator_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_Oprator_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036_Operator_P4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab037_Operator_P5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038_Operator_P6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039_Operator_P7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Operator_P8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041_TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab044_ Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab045_Max_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab045_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046_Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046_max_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049_loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058_break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab059_pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061_continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063_Task_FizzBuz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab064.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab065.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab066.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab067.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab070.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab071.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab071_withArgNoReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072_DefaultArg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072_WithArgWithReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab073_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab074_args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab075_global.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab076.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab077.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab078_Decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab079_decorator1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080_decorator2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab082.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab084.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab085.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab086.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab087.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab088_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089_ListOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089_list1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090_list_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab091_tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab092.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab093.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab094.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab095_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab096.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab097.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab098_QA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab110_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab112_dictEx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab113_dict_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab114_Dict P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab115_QA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab116_QA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab117_QA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab118_IQ_maxDict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab119_DuplicateRem_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab120_dupliate_Keys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab122_CountNumofVowels_Str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab124.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab125_DogP2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab126_DogP3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab127_Person.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab128_CalciNonPC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab129_Calci_PC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab130_opps1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab131_Ops2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab132_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab133_Encap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab134_Encap1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab135_Encap2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab136_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab137_singleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab138_Multilevel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab139_Multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab140_Multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab141_Inherit_Heirachical.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab142_Inherit_hybrid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab143_RealEx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab144_Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab145_Polymorphsm1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab146_Poly_MethodOverride.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab147_poly.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab148_MethodOverload_fix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab149_MethodOverload.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab150_Method_Override.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab151_Real_Method_override.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab152_Abs1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab153_abs2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab154_Abs3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab155_Abs4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab156_staticMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab157_Static_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab158_Complete_Oops_Pgm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab159_exception1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab160_exception2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab161_exception3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab162_exception4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab163_exception5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab164_exception6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab165_exception7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab166_exception8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab168_TryExcept.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab169_TryExceptFinally_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab170_tryExceptFinally_ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab171_OSmodule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab172_Os_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab173_os Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab174_customException.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab176_FleIO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab177_MainMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab178_Main _p1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab179_main_p2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab180_eriteFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab181_csvFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab182_PandasCSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_081.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_121_RemDuplicate_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/geeta/PycharmProjects/PyATB5xLearning/Dec/ex_07122024_exception&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;PyConsoleConfigurable.Python Console&quot;
   }
-}]]></component>
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PyATB5xLearning" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PyATB5xLearning" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning\Dec\ex_07122024_exception" />
@@ -302,7 +257,7 @@
       <recent name="C:\Users\geeta\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Lab001">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -369,10 +324,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab183_learnPytest.test_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab183_learnPytest.test_method2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab098_QA" />
         <item itemvalue="Python.Lab001" />
+        <item itemvalue="Python tests.Python tests for test_Lab183_learnPytest.test_method2" />
+        <item itemvalue="Python.Lab098_QA" />
         <item itemvalue="Python.Lab002" />
       </list>
     </recent_temporary>
@@ -449,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733581230339</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated practice code for OOPS concepts">
+      <option name="closed" value="true" />
+      <created>1733673545826</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733673545826</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -460,6 +439,7 @@
     <MESSAGE value="Updated practice code and task for 16/11 day." />
     <MESSAGE value="Updated practice code and task for 21/11,23/11 day." />
     <MESSAGE value="Updated practice code and task for 26/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated practice code and task for 26/11" />
+    <MESSAGE value="Updated practice code for OOPS concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated practice code for OOPS concepts" />
   </component>
 </project>
