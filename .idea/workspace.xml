@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="selenium mini project- task-1(item name and price)">
+      <change afterPath="$PROJECT_DIR$/Jan/ex04_selenium_locator_xpath/Task_selenium_Miniproject_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex04_selenium_locator_xpath/Task_Selenium_miniProj.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_selenium_locator_xpath/Task_Selenium_miniProj.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "Python tests.Python tests for test_Lab183_learnPytest.test_method2.executor": "Run",
     "Python tests.Python tests in Task_Selenium_miniProj.py.executor": "Run",
+    "Python tests.Python tests in Task_selenium_Miniproject_3.py.executor": "Run",
     "Python tests.Python tests in Test_selenium1.py.executor": "Run",
     "Python tests.Python tests in test04_selenium.py.executor": "Run",
     "Python tests.Python tests in test10_selenium_locators_Options.py.executor": "Run",
@@ -462,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737220619407</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="selenium mini project- task-1(item name and price)">
+      <option name="closed" value="true" />
+      <created>1737223711332</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737223711332</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
