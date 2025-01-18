@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="Update Pytest class 1 Dec30">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab186_API_GET_Req_Mark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex01_01_selenium_basics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex01_01_selenium_basics/test_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex01_01_selenium_basics/test_selenium1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_selenium_basics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_selenium_basics/test03_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_selenium_basics/test04_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_selenium_basics/test05_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_selenium_basics/test06_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_selenium_basics/test07_selenium_multipleBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_selenium_basics/test08_selenium_close_quit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/test09_selenium_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/test10_selenium_locators_Options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/test11_selenium_locators_MiniProject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/test12_selenium_locators_MiniProject_freetrial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/test13_selenium_MiniProject_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/test13_selenium_locators_MiniProject_tagname.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/test14_selenium_MiniProject_ESPOCRM_task2_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/test15_selenium_MiniProject_ESPOCRM_task3_AdvPack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_selenium_locators/test16_selenium_MiniProject_ESPOCRM_task3_SalesPack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    <list default="true" id="10b8cfc6-80ad-4c45-bcea-7084fc4326a3" name="Changes" comment="selenium mini project- task-1(item name and price)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan/ex04_selenium_locator_xpath/Task_Selenium_miniProj.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_selenium_locator_xpath/Task_Selenium_miniProj.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for test_Lab183_learnPytest.test_method2.executor": "Run",
+    "Python tests.Python tests in Task_Selenium_miniProj.py.executor": "Run",
     "Python tests.Python tests in Test_selenium1.py.executor": "Run",
     "Python tests.Python tests in test04_selenium.py.executor": "Run",
     "Python tests.Python tests in test10_selenium_locators_Options.py.executor": "Run",
@@ -467,7 +446,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735581025180</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="selenium basics and locator examples and tasks">
+      <option name="closed" value="true" />
+      <created>1737110579616</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737110579616</updated>
+    </task>
+    <task id="LOCAL-00011" summary="selenium mini project- task-1(item name and price)">
+      <option name="closed" value="true" />
+      <created>1737220619407</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737220619407</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,6 +486,8 @@
     <MESSAGE value="Updated practice code and task for 26/11" />
     <MESSAGE value="Updated practice code for OOPS concepts" />
     <MESSAGE value="Update Pytest class 1 Dec30" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Pytest class 1 Dec30" />
+    <MESSAGE value="selenium basics and locator examples and tasks" />
+    <MESSAGE value="selenium mini project- task-1(item name and price)" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium mini project- task-1(item name and price)" />
   </component>
 </project>
